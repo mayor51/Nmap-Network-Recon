@@ -162,6 +162,7 @@ I also learned that automated scanner output should not automatically be treated
 ---
 
 ## Repository Structure
+```
 nmap-network-recon/
 ├── README.md
 └── screenshots/
@@ -181,9 +182,6 @@ Do not scan systems or networks without explicit authorization.
 
 ## Author
 
-**Joshua Mayowa**
-
-Cybersecurity Enthusiast | Application Security Learner | Frontend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Mayowa-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/joshua-mayowa-773bb7375)
 
